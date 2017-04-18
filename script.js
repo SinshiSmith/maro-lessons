@@ -1,6 +1,6 @@
 var img;
 function preload() {
-  img = loadImage("drawable/box.png");
+	img = loadImage("drawable/box.png");
 }
 
 function setup() {
